@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2010 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- This file contains resource definitions for displayed strings, allowing
+     them to be changed based on the locale and options. -->
+
+<resources>
+    <!-- title string -->
+    <string name = "str_sdcard">TF卡：</string>
+    <string name = "str_usb">USB：</string>
+	<string name = "str_wifi">无线网络：</string>
+	<string name="str_lan">有线网络：</string>
+    <string name="str_video_audio">音视频：</string>
+    <string name = "str_ir">遥控器：</string>
+    <string name = "str_notice">若为有线网络请用DHCP路由器</string>
+    <string name = "str_multicast_addr">当前范围无线数量：</string>
+    <string name = "str_multicast_port">信号质量：</string>
+    <string name = "str_ssid">SSID：</string>
+    <string name = "str_stronge_size">内部存储：</string>
+    <string name = "str_soft_version">固件版本：</string>
+    <string name = "str_hard_version">系统版本：</string>
+    <string name = "str_product_type">产品型号：</string>
+    <string name = "str_release_data">发布时间：</string>
+    <string name = "str_lan_mac">有线Mac：</string>
+    <string name = "str_ip">本机IP：</string>
+    <string name = "str_led">指示灯：</string>
+    <string name = "str_usb_note">Note：请检查扫描枪USB接口是否已经连接</string>
+    
+    <string name = "str_settings">设置</string>
+    <string name = "str_re_testing">重新检测</string>
+    <string name = "str_burn_in_test">老化测试</string>
+    <string name = "str_break">退出</string>
+    
+    <string name = "str_write">已扫描Mac地址：</string>
+    <string name = "str_read">状态：</string>
+    
+    <!-- states string -->
+    <string name = "str_mac_reading">等待扫描枪扫描...</string>
+    <string name = "str_mac_brun_reading">等待烧入Mac...</string>
+    <string name = "str_waiting">正在检测...</string>
+    <string name = "str_reading">正在获取...</string>
+    <string name = "str_wifi_notice">请排查Wifi问题</string>
+    <string name = "str_lan_notice">请排查Lan问题</string>
+    <string name = "str_normal">检测正常</string>
+    <string name = "str_unnormal">检测异常</string>
+    <string name = "str_led_press">按下测试</string>
+	<string name = "str_wifi_process">检测进度：</string>
+    
+   	<string name = "str_normal_usb1">USB1正常</string>
+	<string name = "str_normal_usb2">USB2正常</string>
+	<string name = "str_normal_usb3">USB3正常</string>
+	<string name = "str_unnormal_usb1">USB1异常</string>
+	<string name = "str_unnormal_usb2">USB2异常</string>
+	<string name = "str_unnormal_usb3">USB3异常</string>
+    
+    
+    
+    
+   <string name = "str_all">共</string> 
+   <string name = "str_remain">剩余</string>    
+    
+    
+    
+    
+    
+    
+    
+    
+  <string name = "str_wifi_normal">检测正常,信号强度：</string>
+
+  
+
+	<string name = "str_red">红</string>
+	<string name = "str_blue">蓝</string>
+	<string name = "str_factory">静音检测</string>
+	<string name = "str_factory_press">按下检测</string>
+	<string name = "str_mac_press">MAC地址烧录</string>
+	<string name = "str_insert">请插入扫描枪扫描</string>
+	<string name = "str_mac_addr">MAC:地址</string>
+	 <string name = "str_mac_wating">等待扫描</string>
+	  <string name = "str_mac_fault">MAC地址烧录失败,请再次扫描</string>
+	<string name = "str_mac_ok">MAC地址烧录成功</string>
+	<string name = "str_mute">静音</string>
+		<string name = "str_unmute">声音已开启</string>
+
+        <string name = "str_video">进入视频老化程序</string>
+         <string name = "str_retest">重新检测</string>
+         <string name = "str_sn">SN：</string>
+
+
+
+
+
+</resources>
