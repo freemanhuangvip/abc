@@ -198,7 +198,7 @@ public class ObbMountActivity extends Activity
 	private TableRow			mFirmwareView;
 	private TableRow			mMacBurnNote;
 
-	/* set config for diffrent platform */
+	/* set config for diffrddddent platform */
 	private void PlatformConfigInit()
 	{
 		if (System.getProperty(configPlatform).equals(allwinnerPlatform))
